@@ -61,6 +61,8 @@ var init = function (window) {
                 game.checkCirclePosition(circles[i])
 
             }
+
+        }
     
         /* 
         This Function should check the position of a circle that is passed to the 
